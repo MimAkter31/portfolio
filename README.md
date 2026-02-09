@@ -35,3 +35,8 @@ Currently, I am focusing on improving my **frontend skills** and learning **full
 - **Responsive Design**
 - **Git & GitHub**
 
+> ⚠️ **License Notice**  
+> This project is proprietary.  
+> Copying, modifying, or redistributing any part of this project is strictly prohibited without prior written permission from the author.
+
+
